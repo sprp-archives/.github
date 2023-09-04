@@ -10,3 +10,5 @@ Has your SPRP account been wrongfully suspended by Elongated Muskrat? Fear not, 
 6. Create a GitHub account if you don't have one.
 7. Make an issue at https://github.com/sprp-archives/sprp-archives.github.io/issues/new saying that you want to add your stuff, with a link to it.
 8. We'll take it from there.
+
+If you alternatively don't want to mess with the data folder, send me the link [here](mailto:pt18.relay+sprp-archives@gmail.com) and I'll redact it accordingly. Nothing will get leaked, I promise!
